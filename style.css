@@ -1,0 +1,37 @@
+::selection{
+	background-color: #FF9800;
+	color: #F5F5F5;
+}
+
+::-moz-selection{
+	background-color: #FF9800;
+	color: #F5F5F5;
+}
+
+html{
+	text-align: center;
+}
+
+p{
+	font-size: 40px;
+}
+
+
+  body {
+    display: flex;
+    min-height: 50vh;
+    flex-direction: column;
+  }
+
+  footer {
+    position:fixed ;
+	bottom:0;
+	right: 0;
+	left: 0;
+  }
+
+  #pwd{
+	font-size: 70px;
+  }
+
+
