@@ -1,4 +1,4 @@
-# Générateur de mots de passe
+# Générateur de mot de passe
 
 Ce générateur à la particularité d'avoir été développé en PHP uniquement _(la partie technique)_, il permet de générer une suite de caractères aléatoires mélangeant chiffres, lettres et caractères spéciaux.
 
