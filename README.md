@@ -2,7 +2,7 @@
 
 Ce générateur à la particularité d'avoir été développé en PHP uniquement _(la partie technique)_, il permet de générer une suite de caractères aléatoires mélangeant chiffres, lettres et caractères spéciaux.
 
-Une démo est disponible ici : http://www.brde.fr/gen/
+Une démo est disponible ici : http://www.gen.brde.fr
 
 Voici à quoi ressemble le site :
 
